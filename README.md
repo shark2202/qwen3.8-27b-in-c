@@ -269,7 +269,7 @@ The model hash, oracle SHA, logits comparison, token IDs, and test scope are in
 [qwen3.8-flash-next-in-c](https://github.com/shyringo/qwen3.8-flash-next-in-c)
 runs the sparse 125B-A6B Qwen3.8-Flash-Next architecture plus its 51B PLE on a
 single laptop CPU, with native C chat and exact batch throughput reaching near
-10 token/s on the reference machine.
+10 token/s on the reference machine. Its 8 GB RAM path is selected automatically.
 
 ## License and acknowledgements
 

@@ -236,7 +236,8 @@ make portable
 
 [qwen3.8-flash-next-in-c](https://github.com/shyringo/qwen3.8-flash-next-in-c)
 可以在单颗笔记本 CPU 上运行稀疏的 125B-A6B Qwen3.8-Flash-Next 和 51B PLE，
-提供原生 C 语言聊天与接近 10 token/s 的精确 batch 吞吐。
+提供原生 C 语言聊天、接近 10 token/s 的精确 batch 吞吐和自动启用的最低 8 GB
+内存路径。
 
 ## 许可证与致谢
 
