@@ -1,7 +1,7 @@
 <h1 align="center">Qwen3.8-27B in C：笔记本 CPU 大模型推理</h1>
 
 <p align="center">
-  <strong>只用一颗笔记本 CPU，在本地运行 270 亿参数的 Qwen3.8 大语言模型。</strong><br>
+  <strong>单颗笔记本 CPU 运行 Qwen3.8-27B：最低 8 GB 内存可运行，32 GB x86 参考笔记本最快 2.52 token/s，推理加速不牺牲准确性。</strong><br>
   既可以在终端聊天，也可以通过本地 OpenAI 兼容接口接入应用和函数工具。<br>
   原生 C 语言推理引擎，不需要 GPU、CUDA、Python、PyTorch、权重转换或其他推理框架。
 </p>

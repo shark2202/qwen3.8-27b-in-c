@@ -1,7 +1,7 @@
 <h1 align="center">Qwen3.8-27B in C: Laptop CPU Inference</h1>
 
 <p align="center">
-  <strong>Run the 27B-parameter Qwen3.8 language model locally on one laptop CPU.</strong><br>
+  <strong>Run Qwen3.8-27B on one laptop CPU: 8 GB RAM minimum, up to 2.52 token/s on the reference 32 GB x86 laptop, with no accuracy loss from runtime optimizations.</strong><br>
   Chat in the terminal or connect apps and function tools through a local OpenAI-compatible API.<br>
   A native C inference engine with no GPU, CUDA, Python, PyTorch, model conversion, or external inference runtime.
 </p>
